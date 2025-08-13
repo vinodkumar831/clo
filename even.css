@@ -1,0 +1,10 @@
+#card{
+height:250px;
+width:250px;
+background-color: azure;
+}
+
+#clock{
+    background-color: rgb(199, 155, 155);
+    font-size: 50px;
+}
